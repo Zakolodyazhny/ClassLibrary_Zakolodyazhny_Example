@@ -13,7 +13,11 @@ using Argon.Eval;
 using Argon.Iavr;
 using Jurassic;
 
+//This is a part of a large solution (>200 projects) 
 //developed by Zakolodyazhny Volodymyr
+//This partial class expands functionality of a Usdm01sSB2 device. It extents StateOne.cs
+
+
 namespace Argon.Agr.Usdm01sSB2
 {
     public partial class StateOne

@@ -12,7 +12,13 @@ using Argon.IEC104;
 using Argon.Eval;
 using Argon.Iavr;
 
-//partially developed by Zakolodyazhny Volodymyr
+//This is a part of a large solution (>200 projects) 
+//This class is partially developed by Zakolodyazhny Volodymyr
+//My task was to add a new funtionality to existing projects (like this Usdm01sSB2)
+//New functionality, added by me, is partially here, but mostly - in StateOneIavrPart.cs
+//Usdm01sSB2 device is a thread who talks to hardware and writes data to DB.
+//Usdm01sSB2 device is one thread of many in our Argon Windows Service Application.
+
 namespace Argon.Agr.Usdm01sSB2
 {
     public partial class StateOne : Usdm01WorkerState 
