@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="PLSQL_examples\" />
+    <Folder Include="PLSQL examples\" />
   </ItemGroup>
 
 </Project>
