@@ -1,6 +1,7 @@
 # ClassLibrary_Zakolodyazhny_Example
-This repository contains examples of my last code: C# (My_CS_examples folder) and PL/SQL (My_SQL folder)..
+This repository contains examples of my last code: C# (My_CS_examples folder) and PL/SQL (My_SQL folder).
 It contains my CV too (a bit outdated). 
 CS/C#:
-My C# code with added functionality is in a StateOneIavr.cs file.
+My C# code with added functionality is in a StateOneIavrPart.cs file.
 StateOne.cs file contains not my but existing project code. 
+StateOneIavrPart is the extention of the StateOne class.
